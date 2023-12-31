@@ -58,5 +58,6 @@ cat flag.txt
 Copy the flag and paste it on the Starting Point lab's page to complete the task.
 
 
+
+
         --The Unknown Paradox
-Feel free to adapt this format as needed for your GitHub repository.
