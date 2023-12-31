@@ -1,6 +1,6 @@
 # Meow Write-up
 
-**Prepared by: 0ne-nine9**
+**Prepared by: Paradox**
 
 ## Setting Up
 
